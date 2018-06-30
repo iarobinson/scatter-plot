@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+svg {
+  background-color: red;
+  /* opacity: .5; */
+  display: block;
+  margin: auto;
+}
+
+circle {
+  background-color: black;
+}
